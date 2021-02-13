@@ -1,6 +1,10 @@
 # JavaImageFilters
 Image filtering in Java using convolutions and matrix math
 
+![Original](.\Users\Jacob\Desktop\Image_Matrix\nut.png)
+![Filtered 1](.\Users\Jacob\Desktop\Image_Matrix\nut1.png)
+![Filtered 2](.\Users\Jacob\Desktop\Image_Matrix\nut2.png)
+
 ## What is this project?
 - A Java library for image and matrix related math.
 > Functions for reading images and converting images to matricies and back.
