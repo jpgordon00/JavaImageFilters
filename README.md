@@ -1,5 +1,5 @@
 # JavaImageFilters
-Image filtering in Java using matrix math and convolutions
+Image filtering in Java using convolutions and matrix math
 
 ## What is this project?
 - A Java library for image and matrix related math.
