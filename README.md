@@ -1,7 +1,7 @@
 # JavaImageFilters
 Image filtering in Java using convolutions and matrix math
 
-![Original](C:\Users\Jacob\Desktop\Image_Matrix\nut.png)
+![Original](https://i.ibb.co/d0Q3TpR/nut.jpg)
 ![Filtered 1](C:\Users\Jacob\Desktop\Image_Matrix\nut1.png)
 ![Filtered 2](C:\Users\Jacob\Desktop\Image_Matrix\nut2.png)
 
