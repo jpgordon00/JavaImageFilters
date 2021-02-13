@@ -1,4 +1,4 @@
-# JavaImageFilters
+# ImageMatrixUtils
 Image filtering in Java using convolutions and matrix math
 
 ![Original](https://i.ibb.co/d0Q3TpR/nut.jpg)
@@ -6,9 +6,9 @@ Image filtering in Java using convolutions and matrix math
 
 ## What is this project?
 - A Java library for image and matrix related math.
-> Functions for reading images and converting images to matricies and back.
+> Functions for reading images and converting images to matricies and back. Includes tools to preform image convolutions, strided convolutions and padded convolutions.
 
-> Addition, subtraction, multiplication, divison, convolutions and dot product functions are all provided in native Java.
+> Addition, subtraction, multiplication, divison, matrix flattening and more.
 
 - A Java library for executing image filtering and executing image convolutions.
 > Includes extensible filters for adding any amount of custom image filtering.
